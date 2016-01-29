@@ -1,3 +1,5 @@
+//This might solve the problem as well. Use this solution separately from css solution, if one doesn't work.
+
 // Find all YouTube videos
 var $allVideos = $("iframe[src^='//www.youtube.com']"),
 
